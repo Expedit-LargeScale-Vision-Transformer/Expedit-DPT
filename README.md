@@ -4,6 +4,9 @@
 
 This is the official implementation of the paper "[Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning](https://arxiv.org/abs/2210.01035)" on [DPT](https://arxiv.org/abs/2103.13413). 
 
+![framework](assets/Hourglass_vit_framework.png)
+![framework](assets/TokenClusterReconstruct_Details.png)
+
 We will also implement several token-reduction methods on DPT.
 
 + [EViT](https://github.com/youweiliang/evit)
